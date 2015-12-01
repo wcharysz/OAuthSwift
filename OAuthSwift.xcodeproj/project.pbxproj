@@ -582,7 +582,6 @@
 					};
 					C4B6EE1D1BF74CE300443596 = {
 						CreatedOnToolsVersion = 7.1;
-						DevelopmentTeam = GGU39CDBL2;
 					};
 					C4D50DF61BFB693F0053B624 = {
 						CreatedOnToolsVersion = 7.1;
@@ -999,7 +998,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7ADEDA1797D69CFED21B47D7 /* Pods-OAuthSwiftTVOS.debug.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
@@ -1026,7 +1025,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5F382BA52ECA469B1FFEF052 /* Pods-OAuthSwiftTVOS.release.xcconfig */;
 			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
