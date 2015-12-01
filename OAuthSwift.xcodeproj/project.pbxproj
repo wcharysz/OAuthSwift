@@ -999,6 +999,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 7ADEDA1797D69CFED21B47D7 /* Pods-OAuthSwiftTVOS.debug.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
@@ -1025,6 +1026,7 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5F382BA52ECA469B1FFEF052 /* Pods-OAuthSwiftTVOS.release.xcconfig */;
 			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
 				COPY_PHASE_STRIP = NO;
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
